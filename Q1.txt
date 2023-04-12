@@ -1,0 +1,8 @@
+hikmet balaban
+asciname=607
+ascisurname=534
+ascitotal=1154
+timenumber=(1154&14)+1=6+1=7
+arrnumber=65536-1
+duaration=16020
+ledpinnumber=1154%4+12=2+12=14
